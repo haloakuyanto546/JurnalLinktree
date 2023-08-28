@@ -1,0 +1,2 @@
+# JurnalLinktree
+Jurnalistik Mikasa Linktree
